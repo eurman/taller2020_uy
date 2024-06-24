@@ -7,6 +7,11 @@
 #
 ## Guía
 
+Se ejecuta de la siguiente manera:
+- terraform validate
+- terraform apply -var-file=09-Valores-Variables.tfvars
+
+
 Hay tres carpetas:
 
 1. **codigo-terraform** distintas versiones del código Terraform y la final.
