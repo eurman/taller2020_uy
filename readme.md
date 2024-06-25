@@ -21,3 +21,4 @@ Luego ejecutar los comandos.
 - terraform validate
 - terraform apply -var-file=09-Valores-Variables.tfvars aqui solicitará agregar la contraseña de la base de datos (a elección del usuario).
 
+La solución se encuentra funcionando al 100% y tiene una demora en su implementación entre 10 y 15 minutos.
