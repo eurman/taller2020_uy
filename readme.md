@@ -1,4 +1,4 @@
-# Obligatorio de ISC - Primer Semestre - 2024 - Repositorio del obligatorio  
+# Obligatorio de ISC - Primer Semestre - 2024 - Repositorio
 ### Autores:
 #####     - Lucio Lastra    - 121447
 #####     - Etzequiel Urman - 168879
