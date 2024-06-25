@@ -19,5 +19,5 @@ Debemos posicionarnos dentro de la carpeta codigo-terraform, una vez alli dentro
 
 Luego ejecutar los comandos.
 - terraform validate
-- terraform apply -var-file=09-Valores-Variables.tfvars aqui se debe agregar la contraseña de la base de datos (a elección del usuario).
+- terraform apply -var-file=09-Valores-Variables.tfvars aqui solicitará agregar la contraseña de la base de datos (a elección del usuario).
 
