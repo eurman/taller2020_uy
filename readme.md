@@ -26,7 +26,7 @@ La solución se encuentra funcionando al 100% y tiene una demora en su implement
 # Diagrama de solución final
 
 
-![This is an alt text.](arquitectura-diagrama-final.png)
+![This is an alt text.](https://github.com/luciolastra/isc-obligatorio/blob/main/diagrama-arquitectura/Final/arquitectura-diagrama-final.png)
 
 Tenemos dos servidores web que se conectan al RDS y al EFS Principal, su función es alojar la pagina web y se conectan al EFS principal a modo ilustrativo.
 
